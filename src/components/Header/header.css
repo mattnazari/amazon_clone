@@ -8,13 +8,13 @@
   z-index: 999;
 }
 
-.header_logo {
+.amazon_logo {
   width: 100px;
   object-fit: contain;
   margin: 18px 20px 0 20px;
 }
 
-.header_search {
+.search_bar {
   display: flex;
   flex: 1;
   align-items: center;
@@ -34,7 +34,7 @@
   background-color: #f3a847;
 }
 
-.header_nav {
+.nav {
   display: flex;
   justify-content: space-evenly;
 }
@@ -55,7 +55,7 @@
   font-weight: 800;
 }
 
-.header_option_cart {
+.nav_option_cart {
   display: flex;
   align-items: center;
   color: white;
